@@ -196,7 +196,6 @@ Every contribution — big or small — helps make CIRI a more reliable answer t
 ## 📬 Connect
 
 - 🌐 Website: [canirunit.site](https://canirunit.site)
-- 🐦 Twitter/X: [@canirunit](https://twitter.com/canirunit)
 - 🐞 Issues & Feature Requests: [GitHub Issues](../../issues)
 
 ---
